@@ -1,3 +1,3 @@
-# my_todo
+# My ToDo
 
-A new Flutter project.
+Flutter based ToDo Application
